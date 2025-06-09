@@ -27,7 +27,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iLSffam.png" height="80%" width="80%"
 </p>
 
 ### 1. ☁️ Deploy Azure Virtual Machines
@@ -41,7 +41,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/whkAJ6d.png" height="80%" width="80%"
 </p>
 
 ### 2. 📡 Capture and Observe ICMP Traffic with Wireshark
@@ -55,7 +55,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xbZPP69.png" height="60%" width="70%"
 </p>
 
 ### 3. 🔒 Configure Network Security Groups (NSGs) and Observe Effects
